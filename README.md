@@ -2,6 +2,9 @@
 
 # RFC 2813 IRC Server Implementation
 
+![image](https://github.com/user-attachments/assets/f9449874-bed9-4b52-b1ce-eaf4175a1f81)
+
+
 This repository contains an implementation of an IRC (Internet Relay Chat) server protocol based on [RFC 2813](https://datatracker.ietf.org/doc/html/rfc2813). The server supports core functionalities required for IRC servers, including user connections, authentication, command parsing, message relaying, channel management, and server-to-server communication.
 
 ## Features
